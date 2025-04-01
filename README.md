@@ -1,16 +1,24 @@
 # project_starter_pack
 
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is contain
+- Calculator with numpad
+- BMI calculator
+- Change text to number
+- TicTacToe Game
+- ToDo List (WIP)
 
-A few resources to get you started if this is your first Flutter project:
+dependencies:
+- flutter_bloc: ^9.1.0
+- cupertino_icons: ^1.0.8
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## How to Run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Use command 
+
+```
+flutter run
+```
+
+this project using browser for develop so recommend run on browser
